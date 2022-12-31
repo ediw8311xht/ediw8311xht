@@ -2,23 +2,16 @@
 
 ### About:
 
-<div>
-OS: 
-  
-- Manjaro, Artix
-</div>
-<div>
+<pre>
+Desktop:
+    Manjaro, Artix
+
 Editor:
-  
-- Neovim
-</div>
-<div>
+    Neovim
+
 Languages: 
-  
-- Python, Bash, JS, HTML/CSS, Java, Haskell, C
-</div>
-<div>
+    Python, Bash, JS, HTML/CSS, Java, Haskell, C
+
 Technologies:
-  
-- Flask, Django, Spring MVC, X11, Nginx, Postgres
-</div>
+    Flask, Django, Spring MVC, X11, Nginx, Postgres
+</pre>
