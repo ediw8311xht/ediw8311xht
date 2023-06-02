@@ -3,15 +3,16 @@
 ### About:
 
 <pre>
-Desktop:
-    Manjaro, Artix
+Desktop: 
+    Distro: Manjaro, Artix 
+    WM,DM: i3wm, Ly
 
-Editor:
-    Neovim
+Editors:
+    Neovim, Emacs, Notepadqq, Textadept
 
-Languages: 
-    Python, Bash, JS, HTML/CSS, Java, Haskell, C
+Languages:
+    Python, Bash, JS, HTML/CSS, Java, Haskell, C, Lisp
 
 Technologies:
-    Flask, Django, Spring MVC, X11, Nginx, Postgres
+    Flask, Django, Spring MVC, X11, Nginx, Postgres 
 </pre>
