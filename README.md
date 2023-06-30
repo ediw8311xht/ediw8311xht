@@ -8,7 +8,7 @@ Desktop:
     WM,DM: i3wm, Ly
 
 Editors:
-    Neovim, Emacs, Notepadqq, Textadept
+    Neovim, Emacs, Notepadqq
 
 Languages:
     Python, Bash, JS, HTML/CSS, Java, Haskell, C, Lisp
