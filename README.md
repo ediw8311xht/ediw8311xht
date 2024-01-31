@@ -5,14 +5,17 @@
 <pre>
 Desktop: 
     Distro: Manjaro, Artix 
-    WM,DM: i3wm, Ly
+    WM,DM: i3wm, ly-dm
 
 Editors:
-    Neovim, Emacs, Notepadqq
+    Neovim, Emacs
 
 Languages:
-    Python, Bash, JS, HTML/CSS, Java, Haskell, C
+    Python, Bash, JS, HTML/CSS, Java, Elixir
 
 Technologies:
-    Flask, Django, Spring MVC, X11, Nginx, Postgres 
+    Flask, Django, Spring MVC, X11, Nginx, Postgres
+    
+Fonts:
+    Agave (Best Font Ever), Iosevka
 </pre>
