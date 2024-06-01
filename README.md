@@ -5,7 +5,7 @@
 Links:
 1. [personal website](https://www.maxballard.com)
 2. [stackoverflow](https://stackoverflow.com/users/6060841/maximilian-ballard)
-3. [gitlab](https://https://gitlab.com/MaxLove)
+3. [gitlab](https://gitlab.com/MaxLove)
 4. [writing](https://www.baeldung.com/linux/author/maximilianballard)
 <pre>
 Desktop: 
